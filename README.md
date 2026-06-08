@@ -4,10 +4,7 @@
 
 **A CNN that learned to read the road — trained on 43 traffic sign classes from the GTSRB dataset**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Tech Stack](https://skillicons.dev/icons?i=python,tensorflow,opencv,jupyter)](https://skillicons.dev)
 
 <br>
 
