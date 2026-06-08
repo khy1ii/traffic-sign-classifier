@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚦 Traffic Sign Classifier
+# 🚧 Traffic Sign Classifier
 
 **A CNN that learned to read the road — trained on 43 traffic sign classes from the GTSRB dataset**
 
